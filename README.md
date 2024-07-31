@@ -1,0 +1,2 @@
+# ojoma
+nvit lectures
